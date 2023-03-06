@@ -1,0 +1,15 @@
+D:\Users\terlek\projects\Aws-S3-Practise\src\bin\Debug\net6.0\AwsPractise.exe
+D:\Users\terlek\projects\Aws-S3-Practise\src\bin\Debug\net6.0\AwsPractise.deps.json
+D:\Users\terlek\projects\Aws-S3-Practise\src\bin\Debug\net6.0\AwsPractise.runtimeconfig.json
+D:\Users\terlek\projects\Aws-S3-Practise\src\bin\Debug\net6.0\AwsPractise.dll
+D:\Users\terlek\projects\Aws-S3-Practise\src\bin\Debug\net6.0\ref\AwsPractise.dll
+D:\Users\terlek\projects\Aws-S3-Practise\src\bin\Debug\net6.0\AwsPractise.pdb
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.csproj.AssemblyReference.cache
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.AssemblyInfoInputs.cache
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.AssemblyInfo.cs
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.csproj.CoreCompileInputs.cache
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.dll
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\ref\AwsPractise.dll
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.pdb
+D:\Users\terlek\projects\Aws-S3-Practise\src\obj\Debug\net6.0\AwsPractise.genruntimeconfig.cache
