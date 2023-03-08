@@ -1,4 +1,4 @@
-﻿
+
 string accessKey = "YOUR_ACCESS_KEY";
 string secretKey = "YOUR_SECRET_KEY";
 string bucketName = "YOUR_BUCKET_NAME";
@@ -10,3 +10,4 @@ var s3Service = new S3Service(secretKey, accessKey, bucketName);
 s3Service.CountNumberOfObjectsInBucket();
 s3Service.UploadToBucket(keyName, filePath);
 s3Service.DownloadFileFromBucket(keyName);
+
